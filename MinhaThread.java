@@ -22,6 +22,6 @@ public class MinhaThread extends Thread {
 
 class teste {
   public static void main(String[] args) {
-    MinhaThread thr = new MinhaThread();
+    new MinhaThread();
   }
 }
